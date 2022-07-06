@@ -1,0 +1,35 @@
+body{
+	background-color: #EAF7FF;
+	margin: auto;
+}
+.main{
+	width: 800px;
+	margin: auto;
+}
+.top{
+	width: 800px;
+	height: 180px;
+	background-image: url(../img/top.png);
+}
+.content{
+	width: 800px;
+}
+.cright{
+	margin-top: 5px;
+	width: 160px;
+	height: 695px;
+	background-image: url(../img/g.png);
+	float: left;
+}
+.cleft{
+	width: 640px;
+	height: 695px;
+	float: left;
+}
+.c11,.c12{
+	margin-top: 5px;
+	float: left;
+}
+.c11{
+	margin-right: 15px;
+}
