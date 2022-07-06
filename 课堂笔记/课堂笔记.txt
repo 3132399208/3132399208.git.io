@@ -1,0 +1,25 @@
+<form>表单   action提交的后台地址 
+method提交的方式  get通过地址栏提交   post不通过地址栏  
+ input size显示多少个字符   maxlength最多输入多少字符
+input的type属性  
+
+submit  提交按钮
+button  普通按钮(没有任何作用  是用来后期JS/jQuery写事件用的)
+reset   重置按钮(表单回复原始状态)
+
+text    文本框
+password密码框
+radio   单选按钮(同一组单选按钮需要有相同的name  checked是否默认选中)
+checkbox 多选
+email    单击提交按钮验证是否符合邮箱规则
+url		 单击提交按钮验证是否符合网址规则
+number    只能输入数字
+range     拖动的数值 min最小值   max最大值   step一次增加多少
+
+input的value属性(文本框内用户填写有内容  则value的值为客户填写的内容)
+如果给值则在显示在文本内
+
+select标签(不是type的属性值)  下拉列表  
+option列表项  selected默认选中 
+
+textarea文本域   cols一行多少字    row显示多少行
